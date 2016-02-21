@@ -19,17 +19,25 @@
         <activity
             android:name="com.savinglives.CharityGridViewActivity"
             android:label="Saving Lives" >
+        </activity>
+        <activity android:name="com.savinglives.MenuActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.savinglives.MenuActivity" >
-        </activity>
         <activity
             android:name="com.savinglives.GoalsActivity"
             android:label="@string/title_activity_goals" >
+        </activity>
+        <activity
+            android:name="com.savinglives.ImpactActivity"
+            android:label="@string/title_activity_impact" >
+        </activity>
+        <activity
+            android:name="com.savinglives.GivingRecordActivity"
+            android:label="@string/title_activity_giving_record" >
         </activity>
     </application>
 

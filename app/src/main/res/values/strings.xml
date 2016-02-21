@@ -3,4 +3,6 @@
     <string name="hello">Hello World, Saving Lives!</string>
     <string name="app_name">Saving Lives</string>
     <string name="title_activity_goals">Giving Goals</string>
+    <string name="title_activity_impact">My Impact</string>
+    <string name="title_activity_giving_record">My Giving Record and Plan</string>
 </resources>

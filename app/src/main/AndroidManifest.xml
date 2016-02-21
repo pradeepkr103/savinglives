@@ -17,17 +17,25 @@
         <activity
             android:name=".CharityGridViewActivity"
             android:label="Saving Lives">
+        </activity>
+        <activity android:name=".MenuActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".MenuActivity">
-        </activity>
         <activity
             android:name=".GoalsActivity"
             android:label="@string/title_activity_goals">
+        </activity>
+        <activity
+            android:name=".ImpactActivity"
+            android:label="@string/title_activity_impact">
+        </activity>
+        <activity
+            android:name=".GivingRecordActivity"
+            android:label="@string/title_activity_giving_record">
         </activity>
     </application>
 

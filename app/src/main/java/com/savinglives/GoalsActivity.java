@@ -15,7 +15,7 @@ import android.widget.Toast;
 
 import java.util.Map;
 
-public class GoalsActivity extends ActionBarActivity {
+public class GoalsActivity extends Activity {
 
     EditText nameEt, heightEt, weightStartEt, weightCurEt, ageEt, weightChgPerWeekEt;
     RadioGroup radioGrp; RadioButton genderRbut;

@@ -1,13 +1,5 @@
 [
     {
-        "merged": "/Users/pjain/DevZpjain/aaHacks/savinglives/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/Users/pjain/DevZpjain/aaHacks/savinglives/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "/Users/pjain/DevZpjain/aaHacks/savinglives/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor.xml",
-        "source": "/Users/pjain/DevZpjain/aaHacks/savinglives/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_decor.xml"
-    },
-    {
         "merged": "/Users/pjain/DevZpjain/aaHacks/savinglives/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
         "source": "/Users/pjain/DevZpjain/aaHacks/savinglives/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_list_menu_item_layout.xml"
     },
@@ -22,6 +14,18 @@
     {
         "merged": "/Users/pjain/DevZpjain/aaHacks/savinglives/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
         "source": "/Users/pjain/DevZpjain/aaHacks/savinglives/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/pjain/DevZpjain/aaHacks/savinglives/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/pjain/DevZpjain/aaHacks/savinglives/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/pjain/DevZpjain/aaHacks/savinglives/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor.xml",
+        "source": "/Users/pjain/DevZpjain/aaHacks/savinglives/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "/Users/pjain/DevZpjain/aaHacks/savinglives/app/build/intermediates/res/merged/debug/layout/impact_activity.xml",
+        "source": "/Users/pjain/DevZpjain/aaHacks/savinglives/app/src/main/res/layout/impact_activity.xml"
     },
     {
         "merged": "/Users/pjain/DevZpjain/aaHacks/savinglives/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
@@ -50,6 +54,10 @@
     {
         "merged": "/Users/pjain/DevZpjain/aaHacks/savinglives/app/build/intermediates/res/merged/debug/layout/abc_simple_decor.xml",
         "source": "/Users/pjain/DevZpjain/aaHacks/savinglives/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_simple_decor.xml"
+    },
+    {
+        "merged": "/Users/pjain/DevZpjain/aaHacks/savinglives/app/build/intermediates/res/merged/debug/layout/giving_record_activity.xml",
+        "source": "/Users/pjain/DevZpjain/aaHacks/savinglives/app/src/main/res/layout/giving_record_activity.xml"
     },
     {
         "merged": "/Users/pjain/DevZpjain/aaHacks/savinglives/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",

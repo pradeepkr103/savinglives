@@ -948,11 +948,13 @@ containing a value of this type.
         public static final int abc_search_dropdown_item_icons_2line=0x7f030015;
         public static final int abc_search_view=0x7f030016;
         public static final int abc_simple_decor=0x7f030017;
-        public static final int goals_activity=0x7f030018;
-        public static final int gridview_row=0x7f030019;
-        public static final int main=0x7f03001a;
-        public static final int menu_activity=0x7f03001b;
-        public static final int support_simple_spinner_dropdown_item=0x7f03001c;
+        public static final int giving_record_activity=0x7f030018;
+        public static final int goals_activity=0x7f030019;
+        public static final int gridview_row=0x7f03001a;
+        public static final int impact_activity=0x7f03001b;
+        public static final int main=0x7f03001c;
+        public static final int menu_activity=0x7f03001d;
+        public static final int support_simple_spinner_dropdown_item=0x7f03001e;
     }
     public static final class string {
         public static final int abc_action_bar_home_description=0x7f050000;
@@ -970,7 +972,9 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with_application=0x7f05000c;
         public static final int app_name=0x7f05000d;
         public static final int hello=0x7f05000e;
-        public static final int title_activity_goals=0x7f05000f;
+        public static final int title_activity_giving_record=0x7f05000f;
+        public static final int title_activity_goals=0x7f050010;
+        public static final int title_activity_impact=0x7f050011;
     }
     public static final class style {
         public static final int TextAppearance_AppCompat_Base_CompactMenu_Dialog=0x7f080041;

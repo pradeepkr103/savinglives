@@ -133,7 +133,9 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="app_name">Saving Lives</string>
     <string name="hello">Hello World, Saving Lives!</string>
+    <string name="title_activity_giving_record">My Giving Record and Plan</string>
     <string name="title_activity_goals">Giving Goals</string>
+    <string name="title_activity_impact">My Impact</string>
     <style name="TextAppearance.AppCompat.Base.CompactMenu.Dialog" parent="android:TextAppearance.Medium">
         <item name="android:textColor">@android:color/primary_text_light</item>
     </style>
