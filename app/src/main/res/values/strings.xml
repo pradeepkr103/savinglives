@@ -4,5 +4,12 @@
     <string name="app_name">Saving Lives</string>
     <string name="title_activity_goals">Giving Goals</string>
     <string name="title_activity_impact">My Impact</string>
+    <string name="title_activity_category">One Tap Order</string>
     <string name="title_activity_giving_record">My Giving Record and Plan</string>
+    <string name="title_activity_checkout">Checkout</string>
+    <string name="title_activity_one_tap_order">Activity</string>
+    <string name="title_activity_giving_group_inbox">Group Giving Inbox</string>
+    <string name="title_activity_weights">WeightsActivity</string>
+    <string name="action_checkout">Checkout</string>
+    <string name="action_settings">Settings</string>
 </resources>

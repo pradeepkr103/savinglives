@@ -10,12 +10,23 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 public class MenuActivity extends ListActivity {
-    String[] listItems = {"Giving Goals","My Causes",
-            "Notifications", "My Impact"};
-    Class[] activities = {GoalsActivity.class,
+    String[] listItems = {
+            "My Life and Giving Goals",
+            "My Causes, Select Charity",
+            "Better Me History",
+            "Group Inbox",
+            "My Impact",
+            "UberEats, UberGives"
+    };
+    Class[] activities = {
+            GoalsActivity.class,
             CharityGridViewActivity.class,
-             GivingRecordActivity.class, //TODO notifications
-             ImpactActivity.class       };
+            BetterMeActivity.class,
+            GivingGroupInboxActivity.class,
+            //TODO notifications
+            ImpactActivity.class,
+            CategoryActivity.class
+    };
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

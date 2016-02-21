@@ -4,16 +4,19 @@
           android:versionCode="1"
           android:versionName="1.0">
 
-    <uses-sdk android:minSdkVersion="14"/>
+    <uses-sdk android:minSdkVersion="8"/>
 
-    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-    <android:uses-permission android:name="android.permission.READ_PHONE_STATE"/>
-    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
         android:icon="@drawable/icon"
         android:label="@string/app_name"
-        android:theme="@android:style/Theme.Light">
+        android:theme="@style/AppTheme">
+        <!--android:theme="@android:style/Theme.Light"-->
         <activity
             android:name=".CharityGridViewActivity"
             android:label="Saving Lives">
@@ -36,6 +39,22 @@
         <activity
             android:name=".GivingRecordActivity"
             android:label="@string/title_activity_giving_record">
+        </activity>
+        <activity
+            android:name=".CategoryActivity"
+            android:label="@string/title_activity_category">
+        </activity>
+        <activity
+            android:name=".CheckoutActivity"
+            android:label="@string/title_activity_checkout">
+        </activity>
+        <activity
+            android:name=".GivingGroupInboxActivity"
+            android:label="@string/title_activity_giving_group_inbox">
+        </activity>
+        <activity
+            android:name=".BetterMeActivity"
+            android:label="@string/title_activity_weights">
         </activity>
     </application>
 
